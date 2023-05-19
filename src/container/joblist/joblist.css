@@ -1,0 +1,76 @@
+.joblist {
+    background-color: black;
+    color: #fff;
+    height: 100%;
+    width: 100%;
+}
+
+.joblist .Parent__div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    padding-top: 2rem;
+    flex-wrap: wrap;
+}
+
+.parent__div__text {
+    margin-left: 5rem
+}
+
+.mother__container {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: row;
+    padding-top: 1.5rem;
+    /* padding: 2rem 5rem; */
+
+}
+
+
+
+.mother__container div {
+    background-color: #fff;
+    color: black;
+    padding: 20px;
+    padding-left: 80px;
+    padding-right: 80px;
+  
+
+    /* padding-top: 10px; */
+    /* padding-bottom: 10px; */
+}
+
+.mother__container2 {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: row;
+    padding-top: 1.5rem;
+    /* padding: 2em 0.5rem; */
+
+
+}
+
+.mother__container2 div {
+    background-color: #fff;
+    color: black;
+    padding: 20px;
+    padding-left: 80px;
+    padding-right: 80px;
+   
+    /* padding-top: 10px; */
+    /* padding-bottom: 10px; */
+}
+
+#more {
+    background-color: #fff;
+    color: black;
+    margin: auto; 
+    display: block;
+    width: 15%;
+    padding: 1.2em 2rem;
+    margin-top: 2.5rem;
+    text-align: center;
+}
